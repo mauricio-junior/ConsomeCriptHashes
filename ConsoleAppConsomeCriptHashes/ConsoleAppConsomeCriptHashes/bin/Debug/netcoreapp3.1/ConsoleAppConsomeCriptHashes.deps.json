@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppConsomeCriptHashes/1.0.0": {
+        "dependencies": {
+          "CriptHashes": "1.0.1"
+        },
+        "runtime": {
+          "ConsoleAppConsomeCriptHashes.dll": {}
+        }
+      },
+      "CriptHashes/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/CriptHashes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppConsomeCriptHashes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CriptHashes/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XZGc6+yGcS++/jMZHMZESWDosrh0bwK2M41MS/Mr2tN8NEeu1LFXcVqmyJIpG2EPu0ivuUhgmNaqURxghORyxg==",
+      "path": "cripthashes/1.0.1",
+      "hashPath": "cripthashes.1.0.1.nupkg.sha512"
+    }
+  }
+}
